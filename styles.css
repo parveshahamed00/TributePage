@@ -1,0 +1,32 @@
+img {
+  width: 25%;
+  border-radius: 50%;
+  height: 25%;
+  padding: 5%;
+}
+li {
+  width: 55%;
+  margin-left: 25%;
+  color: dimgrey;
+}
+body {
+  text-align: center;
+  margin: 0;
+  background-color: grey;
+}
+ul {
+  font-size: 20px;
+  text-align: justify;
+  background-color: lightgray;
+  font-family: "Amiri", serif;
+}
+h4 {
+  width: 20%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: lavender;
+}
+.top {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: lightgray;
+}
